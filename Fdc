@@ -1,8 +1,8 @@
 {
-    "Version": "1.0.0",
-    "ReleaseNotes": "¡Nueva actualización disponible!🧩 \nESTÁ PROHIBIDO EL INICIO DE SESIÓN MÚLTIPLE. \n MANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA 🏆\n 🔗 Versión – 1.1.9\nusted está conectado y no le funciona correctamente, comuníquese con servicio técnico. ⚙️\n 😎¡DISFRUTA!😎",
-    "Sms": "https://raw.githubusercontent.com/SYMnetsuport/SyMnet/main/Sms",
-    "UrlUpdate": "https://raw.githubusercontent.com/SYMnetsuport/SyMnet/main/Fdc",
+    "Version": "1.1.1",
+    "ReleaseNotes": "¡Nueva actualización disponible!🧩 \nESTÁ PROHIBIDO EL INICIO DE SESIÓN MÚLTIPLE. \n MANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA 🏆\n 🔗 Versión – 1.1.1\nusted está conectado y no le funciona correctamente, comuníquese con servicio técnico. ⚙️\n 😎¡DISFRUTA!😎",
+    "Sms": "https://raw.githubusercontent.com/CerebroStM/Hc/main/sms",
+    "UrlUpdate": "https://raw.githubusercontent.com/CerebroStM/Hc/main/Fdc",
     "EmailFeedback": "",
     "UrlContato": "",
     "UrlTermos": "",
