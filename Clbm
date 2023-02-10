@@ -1,6 +1,6 @@
 {
-    "Version": "1.2.3",
-    "ReleaseNotes": "¡Nueva actualización disponible!🧩 \nESTÁ PROHIBIDO EL INICIO DE SESIÓN MÚLTIPLE. \n MANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA 🏆\n 🔗 Versión – 1.2.3\nusted está conectado y no le funciona correctamente, comuníquese con servicio técnico. ⚙️\n 😎¡DISFRUTA!😎",
+    "Version": "1.3.0",
+    "ReleaseNotes": "¡Nueva actualización disponible!🧩 \nESTÁ PROHIBIDO EL INICIO DE SESIÓN MÚLTIPLE. \n MANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA 🏆\n 🔗 Versión – 1.3.0\nusted está conectado y no le funciona correctamente, comuníquese con servicio técnico. ⚙️\n 😎¡DISFRUTA!😎",
     "Sms": "https://raw.githubusercontent.com/CerebroStM/Hc/main/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/CerebroStM/Hc/main/Clbm",
     "EmailFeedback": "",
@@ -112,13 +112,13 @@ Content-Length: 999999999[crlf][crlf]",
    },
     {
       "Name": "❤️MOVISTAR REDES🇨🇴",
-      "FLAG": "ic_tim",
+      "FLAG": "claro",
       "Payload": "",
       "SNI": "whatsapp.net",
       "TlsIP": "col.cerebro.tk",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "Tlsws"
+      "Info": "Ssl"
    },
     {
       "Name": "❤️TIGO 1🇨🇴",
@@ -161,7 +161,7 @@ Content-Length: 999999999[crlf][crlf]",
       "Info": "DIRECT"
    },
     {
-      "Name" "SERVIDORES IP CO",
+      "Name":  "⚠️SERVIDORES IP CO⚠️",
       "FLAG": "",
       "Payload": "",
       "SNI": "",
@@ -240,7 +240,7 @@ Content-Length: 999999999[crlf][crlf]",
       "TlsIP": "f.cerebro.tk",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "Tlsws"
+      "Info": "ssl"
    },
     {
       "Name": "❤️TIGO 1🇨🇴",
