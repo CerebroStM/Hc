@@ -100,13 +100,13 @@
    },
     {
       "Name": "❤️MOVISTAR REDES🇨🇴",
-      "FLAG": "claro",
+      "FLAG": "ic_tim",
       "Payload": "",
       "SNI": "whatsapp.net",
       "TlsIP": "netcol.cerebrocol.com",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "Tlsws"
+      "Info": "Ssl"
    },
     {
       "Name": "❤️TIGO 1🇨🇴",
