@@ -1,6 +1,6 @@
 {
-    "Version": "1.0.3",
-    "ReleaseNotes": "¡Nueva actualización disponible!🧩 \n MANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA 🏆\n 🔗 Versión – 1.0.3\nSi usted está conectado y no le funciona correctamente, comuníquese con servicio técnico. ⚙️\n 😎¡DISFRUTA!😎",
+    "Version": "1.0.4",
+    "ReleaseNotes": "¡Nueva actualización disponible!🧩 \n MANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA 🏆\n 🔗 Versión – 1.0.4\nSi usted está conectado y no le funciona correctamente, comuníquese con servicio técnico. ⚙️\n 😎¡DISFRUTA!😎",
     "Sms": "https://raw.githubusercontent.com/CerebroStM/Hc/main/netco",
     "UrlUpdate": "https://github.com/CerebroStM/Hc/raw/main/NETCOL",
     "EmailFeedback": "",
@@ -49,7 +49,7 @@
       "Info": ""
    },
     {
-      "Name": "✅VERSION 1.0.3✅",
+      "Name": "✅VERSION 1.0.4✅",
       "FLAG": "",
       "Payload": "",
       "SNI": "",
@@ -103,7 +103,7 @@
       "FLAG": "ic_tim",
       "Payload": "",
       "SNI": "whatsapp.net",
-      "TlsIP": "netcol.cerebro.tk",
+      "TlsIP": "66.90.89.92",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
