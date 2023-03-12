@@ -1,6 +1,6 @@
 {
-    "Version": "1.0.5",
-    "ReleaseNotes": "¡Nueva actualización disponible!🧩 \n MANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA 🏆\n 🔗 Versión – 1.0.5\nSi usted está conectado y no le funciona correctamente, comuníquese con servicio técnico. ⚙️\n 😎¡DISFRUTA!😎",
+    "Version": "1.0.6",
+    "ReleaseNotes": "¡Nueva actualización disponible!🧩 \n MANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA 🏆\n 🔗 Versión – 1.0.6\nSi usted está conectado y no le funciona correctamente, comuníquese con servicio técnico. ⚙️\n 😎¡DISFRUTA!😎",
     "Sms": "https://raw.githubusercontent.com/CerebroStM/Hc/main/Netsms",
     "UrlUpdate": "https://raw.githubusercontent.com/CerebroStM/Hc/main/NETCOL",
     "EmailFeedback": "",
@@ -49,7 +49,7 @@
       "Info": "Ssl"
    },
     {
-      "Name":  "⚠️VERSIÓN 1.0.5⚠️",
+      "Name":  "⚠️VERSIÓN 1.0.6⚠️",
       "FLAG": "",
       "Payload": "",
       "SNI": "",
@@ -61,8 +61,8 @@
     {
       "Name": "❤️CLARO REDES🇨🇴",
       "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: netcol.cerebrocol.com[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "netcol.cerebrocol.com",
+      "Payload": "GET / HTTP/1.1[crlf]Host: f.cerebro.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "f.cerebro.tk",
       "TlsIP": "appboy-images.com",
       "ProxyIP": "",
       "ProxyPort": "443",
@@ -103,7 +103,7 @@
       "FLAG": "ic_tim",
       "Payload": "",
       "SNI": "whatsapp.net",
-      "TlsIP": "netcol.cerebrocol.com",
+      "TlsIP": "f.cerebro.tk",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Ssl"
@@ -131,8 +131,8 @@
     {
       "Name": "❤️TIGO 3🇨🇴",
       "FLAG": "ic_oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: netcol.cerebrocol.com[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "netcol.cerebrocol.com",
+      "Payload": "GET / HTTP/1.1[crlf]Host: f.cerebro.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "f.cerebro.tk",
       "TlsIP": "cdn.todo1.com",
       "ProxyIP": "",
       "ProxyPort": "443",
@@ -141,12 +141,13 @@
     {
       "Name": "❤️TIGO 4🇨🇴",
       "FLAG": "ic_oi",
-      "Payload": "CONNECT [host_port] HTTP/1.1[crlf]Host: cdn.todo1.com[crlf][crlf]",
-      "SNI": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: f.cerebro.tk[crlf]Upgrade: websocket[crlf][crlf]",
+
+"SNI": "ayuda.tigo.com.co",
       "TlsIP": "",
-      "ProxyIP": "netcol.cerebrocol.com",
-      "ProxyPort": "80",
-      "Info": "DIRECT"
+      "ProxyIP": "f.cerebro.tk",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
    }
   ]
 }
